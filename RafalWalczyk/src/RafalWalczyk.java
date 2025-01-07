@@ -10,6 +10,7 @@ public class RafalWalczyk {
         System.out.println("Rafał Walczyk, nr indeksu 123793, podstawy programowania, Społeczna Akademia Nauk w Łodzi");
 
         //Tworzenie nowego skanera do wprowadzenia danych przez użytkownika
+        //test komentarza
         Scanner scanner = new Scanner(System.in);
 
         // Wczytanie listy aktywnych zadań z pliku (jeśli istnieje)
